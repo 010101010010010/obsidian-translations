@@ -38,13 +38,13 @@
             "type": "CallExpression",
             "name": "log",
             "source": "[日历] 未能找到每周笔记文件夹",
-            "target": "[日历] 未能找到每周笔记文件夹"
+            "target": "[日历] 未能找到每周笔记文件夹的ads"
         },
         {
             "type": "CallExpression",
             "name": "setDesc",
             "source": "单个圆点应代表多少字数？",
-            "target": "单个圆点应代表多少字数？"
+            "target": "单个圆点应代表多少字数额阿萨大大？"
         },
         {
             "type": "CallExpression",
