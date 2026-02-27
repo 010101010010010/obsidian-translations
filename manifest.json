@@ -1,17 +1,5 @@
 [
     {
-        "id": "80c67152-d210-4a4b-bd09-7c0d2cca2257",
-        "plugin": "calendar",
-        "language": "zh-cn",
-        "version": "1.5.13",
-        "supported_versions": "1.5.13",
-        "title": "Calendar",
-        "description": "Calendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & TweaksCalendar Localization & Tweaks",
-        "hash": "62e2c98d62e2c98d62e2c98d62e2c98d",
-        "created_at": "2026-02-26T15:52:11.395Z",
-        "updated_at": "2026-02-26T15:53:14.709Z"
-    },
-    {
         "id": "91d0832a-10f5-48c5-9110-4256675decfc",
         "plugin": "obsidian-git",
         "language": "zh-cn",
