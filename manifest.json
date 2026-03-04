@@ -22,5 +22,17 @@
         "hash": "5e661f465e661f465e661f465e661f46",
         "created_at": "2026-02-27T15:08:17.227Z",
         "updated_at": "2026-03-01T13:26:31.403Z"
+    },
+    {
+        "id": "U6EAcfkmDmEYJ0fRYgk1oakENgdbI7DQ",
+        "plugin": "obsidian-git",
+        "language": "zh-cn",
+        "version": "2.36.1",
+        "supported_versions": "2.36.1",
+        "title": "Git",
+        "description": "Git Localization & Tweaks",
+        "hash": "09ae28f809ae28f809ae28f809ae28f8",
+        "created_at": "2026-03-04T04:50:33.212Z",
+        "updated_at": "2026-03-04T04:50:33.212Z"
     }
 ]
