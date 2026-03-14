@@ -1,15 +1,1 @@
-[
-  {
-    "id": "_1iyW6FCKEk3wbXp5jj8aahTb7n4YKtU",
-    "plugin": "obsidian-toggl-integration",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "0.11.0",
-    "title": "Toggl Track",
-    "description": "Toggl Track Localization & Tweaks",
-    "hash": "3b4037173b4037173b4037173b403717",
-    "created_at": "2026-03-14T02:38:55.080Z",
-    "updated_at": "2026-03-14T02:38:55.080Z"
-  }
-]
+[]
