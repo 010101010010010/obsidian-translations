@@ -205,5 +205,57 @@
         "hash": "23ac441523ac441523ac441523ac4415",
         "created_at": "2026-03-13T14:33:25.955Z",
         "updated_at": "2026-03-13T14:33:25.955Z"
+    },
+    {
+        "id": "__t6E8YNs04dtQ_a8tLmdW_WzSa0mksn",
+        "plugin": "cloudatlas-o-am",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.9.9",
+        "title": "Amazing Marvin Integration",
+        "description": "Amazing Marvin Integration Localization & Tweaks",
+        "hash": "190b2174190b2174190b2174190b2174",
+        "created_at": "2026-03-14T02:38:55.074Z",
+        "updated_at": "2026-03-14T02:38:55.074Z"
+    },
+    {
+        "id": "_-CiBpv4Ro08q8FIm5jILFFYq4Y3N_qo",
+        "plugin": "scripture-indexer",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.3.0",
+        "title": "Scripture Indexer",
+        "description": "Scripture Indexer Localization & Tweaks",
+        "hash": "0346afa70346afa70346afa70346afa7",
+        "created_at": "2026-03-14T02:38:55.079Z",
+        "updated_at": "2026-03-14T02:38:55.079Z"
+    },
+    {
+        "id": "_228xaVf0bTSwX9Npei36nyFwlnU6Nr1",
+        "plugin": "plugins-annotations",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.7.11",
+        "title": "Plugins Annotations",
+        "description": "Plugins Annotations Localization & Tweaks",
+        "hash": "5c7b14a75c7b14a75c7b14a75c7b14a7",
+        "created_at": "2026-03-14T02:38:55.080Z",
+        "updated_at": "2026-03-14T02:38:55.080Z"
+    },
+    {
+        "id": "_1iyW6FCKEk3wbXp5jj8aahTb7n4YKtU",
+        "plugin": "obsidian-toggl-integration",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.11.0",
+        "title": "Toggl Track",
+        "description": "Toggl Track Localization & Tweaks",
+        "hash": "3b4037173b4037173b4037173b403717",
+        "created_at": "2026-03-14T02:38:55.080Z",
+        "updated_at": "2026-03-14T02:38:55.080Z"
     }
 ]
